@@ -1,0 +1,17 @@
+/*
+Here body, p, h1 are called selectors
+which have property : value
+*/
+body {
+    background-color: honeydew;
+    color: rgb(22, 34, 2);
+}
+
+p {
+    font-family: sans-serif;
+    color: rgb(49, 1, 68);
+}
+
+h1 {
+    color: #28c700;
+}
