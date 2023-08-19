@@ -15,3 +15,13 @@ p {
 h1 {
     color: #28c700;
 }
+
+div {
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+}
+
+span {
+    color: dodgerblue;
+}
