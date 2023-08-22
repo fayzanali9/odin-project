@@ -16,12 +16,40 @@ h1 {
     color: #28c700;
 }
 
-div {
+/* div {
     background-color: bisque;
     width: 500px;
     height: 500px;
-}
+} */
 
 span {
     color: dodgerblue;
+}
+
+.top-section{
+    background-color: darkorange;
+}
+
+.bottom-section{
+    background-color: goldenrod;
+}
+
+.first-para{
+    font-size: 20px;
+}
+
+.highlight{
+    background-color: tomato;
+}
+
+.lowlight{
+    background-color: cornsilk;
+}
+
+#third-div{
+    background-color: darksalmon;
+}
+
+.inline-span{
+    background-color: darkslategray;
 }
